@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60198857-8cf6-411a-a7ff-753f15e213ac" name="更改" comment="" />
+    <list default="true" id="60198857-8cf6-411a-a7ff-753f15e213ac" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/MADDPG/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/MADDPG/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +40,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -62,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1774445892634</updated>
       <workItem from="1774445893968" duration="751000" />
-      <workItem from="1774446673090" duration="81000" />
+      <workItem from="1774446673090" duration="390000" />
     </task>
     <servers />
   </component>
